@@ -4,13 +4,6 @@
 
 <br/>
 
-> **Co-Founder & Lead AI Engineer** @ [Eledra Labs](https://eledralabs.com)  
-> Specializing in multi-agent architectures, full-duplex voice AI pipelines, and enterprise RAG engines.
-> 
-> *"Building deterministic controls around non-deterministic models."*
-
----
-
 ### 📊 Tech Stack
 
 | Category | Technologies |
