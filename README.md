@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=header" width="100%"/>
+
 # Abdullah Zafar
 
 ```python
@@ -36,3 +38,7 @@ class AIEngineer(BaseModel):
 
 > [!IMPORTANT]
 > [Download my resume](./AbdullahZafar_Resume.pdf)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" width="100%"/>
