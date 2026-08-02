@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=header" width="100%"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Abdullah+Zafar;AI+Engineer;Building+Agentic+Systems" alt="Typing SVG" />
+</div>
 
-# Abdullah Zafar
+<br/>
 
 ```python
 class AIEngineer(BaseModel):
@@ -38,7 +40,3 @@ class AIEngineer(BaseModel):
 
 > [!IMPORTANT]
 > [Download my resume](./AbdullahZafar_Resume.pdf)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=120&section=footer" width="100%"/>
