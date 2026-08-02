@@ -20,7 +20,6 @@
 ### 🏆 Achievements
 
 - 🥇 **Codeforces National Rank 70** in Pakistan out of thousands of competitive coders.
-- 🔥 **100+ Day CP Streak** completing algorithmic challenges daily.
 
 ---
 
