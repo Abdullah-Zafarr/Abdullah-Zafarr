@@ -24,6 +24,7 @@ class AIEngineer(BaseModel):
 
 ---
 
-### Connect
+### Employer?
 
-[LinkedIn](https://www.linkedin.com/in/abdullahz-dev/) &nbsp;•&nbsp; [GitHub](https://github.com/Abdullah-Zafarr)
+> [!IMPORTANT]
+> [Download my resume](./AbdullahZafar_Resume.pdf)
