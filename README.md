@@ -4,24 +4,21 @@
 
 <br/>
 
-```python
-class AIEngineer(BaseModel):
-    identity: str = "Abdullah Zafar"
-    focus: list[str] = [
-        "Autonomous Agentic Systems",
-        "LLM Infrastructure & RAG Pipelines",
-        "Structured Outputs & Function Calling"
-    ]
-    stack: list[str] = [
-        "Python", "LangChain", "Pydantic", 
-        "Gemini API", "Docker", "FastAPI", "MCP"
-    ]
-    rule: str = "Building deterministic controls around non-deterministic models."
-```
+> **AI Engineer** specializing in autonomous agentic workflows, LLM infrastructure, and production-grade RAG pipelines.
+> 
+> *"Building deterministic controls around non-deterministic models."*
 
 ---
 
-### Main Skills
+### ⚡ Focus & Architecture
+
+* 🤖 **Agentic Workflows:** Designing tool-use loops, multi-agent systems, and Model Context Protocol (MCP) integrations.
+* 🧠 **LLM Infrastructure & RAG:** Architecting structured output pipelines using Pydantic, Gemini API, and Vector DBs.
+* 🐳 **Production Systems:** Shipping scalable ML & API microservices with Python, FastAPI, PyTorch, and Docker.
+
+---
+
+### 🛠️ Main Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,fastapi,flask,postgres,mongodb,redis,git,github,linux,bash,vscode,postman,aws&perline=8" />
@@ -36,7 +33,7 @@ class AIEngineer(BaseModel):
 
 ---
 
-### Employer?
+### 💼 Employer?
 
 > [!IMPORTANT]
 > [Download my resume](./AbdullahZafar_Resume.pdf)
