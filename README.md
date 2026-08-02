@@ -17,10 +17,13 @@ class AIEngineer(BaseModel):
 
 ---
 
-### Core Stack
+### Main Skills
 
-**AI & Systems:** `Python` · `LangChain` · `Pydantic` · `Gemini API` · `PyTorch`  
-**Infrastructure & Ops:** `Docker` · `FastAPI` · `MCP (Model Context Protocol)` · `Vector DBs`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,fastapi,git,linux,bash,postgres,vscode" />
+</p>
+
+**AI Frameworks & Protocols:** `LangChain` · `Pydantic` · `Gemini API` · `MCP` · `Vector DBs`
 
 ---
 
