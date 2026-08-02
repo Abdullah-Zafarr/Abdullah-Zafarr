@@ -26,4 +26,4 @@
 ### Resume
 
 > [!IMPORTANT]
-> [Download Resume (PDF)](./AbdullahZafar_Resume.pdf)
+> [Download Resume (PDF)](https://github.com/Abdullah-Zafarr/Abdullah-Zafarr/raw/main/AbdullahZafar_Resume.pdf)
