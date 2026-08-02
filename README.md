@@ -11,14 +11,6 @@
 
 ---
 
-### ⚡ Focus & Architecture
-
-* 🤖 **Agentic Workflows:** Multi-agent orchestration (LangGraph, CrewAI), tool-use loops, and multi-layer Pydantic validation.
-* 🎙️ **Voice AI & Telephony:** Sub-750ms conversational voice bots streaming audio over WebSockets via Groq LPU, Deepgram, and Twilio.
-* 🧠 **Memory & RAG Engines:** Graph-based long-term memory (Mem0) and dual-vector indexing with Qdrant & ChromaDB.
-
----
-
 ### 📊 Tech Stack
 
 | Category | Technologies |
