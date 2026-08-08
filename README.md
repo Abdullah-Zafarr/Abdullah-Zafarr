@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+Agentic+Systems" alt="Typing SVG" />
   <br/>
-  <span><b>Co-Founder @ <a href="https://eledralabs.com/">eledralabs.com</a></b></span>
+  <h3><strong>Co-Founder @ <a href="https://eledralabs.com/">eledralabs.com</a></strong></h3>
 </div>
 
 <br/>
